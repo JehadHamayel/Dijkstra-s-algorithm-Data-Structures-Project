@@ -1,0 +1,7 @@
+from Akka to Nazareth by cost: 33km
+from Nazareth to Jenin by cost: 38km
+from Jenin to Tubas by cost: 30km
+from Tubas to Jericho by cost: 52km
+from Jericho to Jerusalem by cost: 38km
+
+The Totle Cost From Akka To Jerusalem is : 191km
